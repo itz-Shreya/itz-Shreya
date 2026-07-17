@@ -6,8 +6,8 @@
 Here are some ideas to get you started
 
 -->
-# Hi there, I'm Shreya Vijeeth! 👋
-### CSE B.Tech Sophomore | Aspiring Software Engineer | Passionate Learner
+# Hi there, I'm Shreya Vijeeth!
+### Currently pursuing B.tech 
 
 I am a second-year Computer Science and Engineering undergraduate student who loves solving problems through code. Currently, I am focused on strengthening my foundational computer science skills, mastering data structures, and actively looking to collaborate on open-source and exciting coding projects!
 
